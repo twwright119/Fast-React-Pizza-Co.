@@ -14,4 +14,5 @@ I had the parent app component, which consisted of multiple child components, su
 <br>
 I very much enjoy React, as it allows me to nest components and clean up code. I have found with vanilla JS, code gets muddy and hard to understand due to the sheer amount that you have to write. Components make life easy as it easily contains data, JS logic, and JSX, which ultimately renders our "display". 
 
-### Stay tuned for more projects!
+### What the Project Looks Like!
+![fastReactPizzaCo](https://github.com/twwright119/Fast-React-Pizza-Co./assets/115041793/557a6c8b-1efb-4607-94e6-5d913808667d)
